@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="app_header_title">Unit Converter</string>
+    <string name="app_header_subtitle">Convert Length, Weight, Volume, and Temperature</string>
+
+    <string name="label_select_category">1. Select Measurement Category</string>
+    <string name="label_input_value">2. Enter Value to Convert</string>
+    <string name="hint_enter_value">e.g. 100 or 36.5</string>
+    <string name="label_from_unit">From Unit (Source)</string>
+    <string name="label_to_unit">To Unit (Target)</string>
+
+    <string name="button_swap_units">⇅ Swap Source &amp; Target Units</string>
+    <string name="button_convert_text">Convert Value</string>
+
+    <string name="label_converted_result">Converted Result</string>
+    <string name="default_result_placeholder">--</string>
+    <string name="default_formula_placeholder">Enter a numeric value and tap Convert Value</string>
+</resources>
